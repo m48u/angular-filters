@@ -1,5 +1,4 @@
 # angular-filters
-===============
 This is just a very small project which provides some filters for your AngularJS project.
 
 ## Installation
@@ -14,7 +13,7 @@ After that in your app you have the filters from this module available
 
 ```javascript
 {{model.helloWorld | reverse }}
-``
+```
 
 Filters are:
 - reverse
